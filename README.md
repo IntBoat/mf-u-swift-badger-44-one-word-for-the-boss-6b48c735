@@ -4,7 +4,13 @@
 [![rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/IntBoat/mf-u-swift-badger-44-one-word-for-the-boss-6b48c735/rank.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
 [![reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/IntBoat/mf-u-swift-badger-44-one-word-for-the-boss-6b48c735/reward.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735?utm_source=github&utm_medium=readme&utm_campaign=u-swift-badger-44-one-word-for-the-boss-6b48c735)
 
-One word describing my boss, written to /output/entry.txt by a small Python program. Entered in make.fun's One Word for the Boss bounty.
+One word for the boss — the one the whole team already uses behind closed doors. This entry picks the word no performance review ever dares to print.
+
+Competition: https://make.fun/api/competitions/u-swift-badger-44-one-word-for-the-boss-6b48c735/requirements
+
+## Entry
+
+`micromanager`
 
 ## Run it
 
